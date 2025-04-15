@@ -9,18 +9,23 @@
   <body>
     <h1>01 - Form</h1>
     <form action="/submit">
-      <span>Name</span>
-      <input type="text" />
+      <label>
+        Name
+        <input type="text" />
+      </label>
       <br /><br />
       <label>
         Email
         <input type="text" />
       </label>
       <br /><br />
-      <span>Favorite Character</span>
-      <div><input type="radio" id="spongebob" />Spongebob</div>
-      <div><input type="radio" id="patrick" />Patrick</div>
-      <div><input type="radio" id="sandy" />Sandy</div>
+      <fieldset>
+        <legend>Favorite Character</legend>
+        <input type="radio" id="spongebob" />
+        <label for="spongebob">Spongebob</label>
+        <input type="radio" id="patrick" /><label for="patrick">Patrick</label>
+        <input type="radio" id="sandy" /><label for="sandy">Sandy</label>
+      </fieldset>
       <br />
       <button>Submit</button>
     </form>
