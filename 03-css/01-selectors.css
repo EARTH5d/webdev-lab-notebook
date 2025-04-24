@@ -23,7 +23,7 @@ li[class*="do"] {
 }
 
 li[class$="g"] {
-  color: var(--magenta);
+  color: var(--violet);
 }
 
 li[class^="p"] {
