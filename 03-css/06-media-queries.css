@@ -1,6 +1,75 @@
+nav {
+  background-color: var(--black);
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  width: 100%;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  display: block;
+  padding: 1em;
+  text-decoration: none;
+  color: var(--white);
+}
+
+nav ul li a:hover {
+  background-color: var(--gray1);
+}
+
+.main {
+  margin-top: 100px;
+  padding: 0em 0.5em;
+}
+
+body {
+  background: var(--purple);
+  color: var(--white);
+}
+
+@media (max-width: 414px) {
+  nav ul li {
+    width: 100%;
+  }
+
+  .main {
+    margin-top: 220px;
+  }
+}
+
+@media (max-width: 450px) {
+  nav ul li a {
+    padding: 0.5em;
+  }
+}
+/*This is so that they can all fit without crossing up any of the text.*/
+
+@media (min-width: 415px) and (max-width: 1023px) {
+  body {
+    background: var(--orange);
+    color: var(--black);
+  }
+}
+
 @media (min-width: 1024px) {
   body {
     background: var(--green);
     color: var(--white);
   }
 }
+
+/**
+phone 414 x 800
+tablet 768 x 800
+laptop 1024 x 800
+**/
