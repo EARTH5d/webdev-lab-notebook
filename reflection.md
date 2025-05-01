@@ -7,7 +7,11 @@ Enter your reflections on this section here.
 
 -- 02-a11y: I commpleted the excerises. I used 04-form.html as a reference.
 
--- 03 : I commpleted all the excerises, though there was not much HTML this week, I only think I only code for number 6 and that was only to hooked up(?) the interal links as well as becuase I was following along with the veido.
+-- 03-css : I commpleted all the excerises, though there was not much HTML this week, I only think I only code for number 6 and that was only to hooked up(?) the interal links as well as becuase I was following along with the veido.
+
+-- 04-flexbox: I completed all the excerises.
+
+-- 05-grid: I completed all the excerises.
 
 ### Accessibility
 
@@ -16,7 +20,11 @@ Enter your reflections on this section here.
 
 -- 02-a11y: The wedpage have no error flags and only one alert flag for No page regions.
 
--- 03-: The wedpage have no error flags and only one alert flag for No page regions.
+-- 03-css: The wedpage have no error flags and only one alert flag for No page regions.
+
+-- 04-flexbox: The wedpage have no error flags and only one alert flag for No page regions.
+
+-- 05-grid: The wedpage have no error flags and only one alert flag for No page regions.
 
 ### CSS
 
@@ -26,3 +34,9 @@ Enter your reflections on this section here.
 -- 02-a11y: I did all that was asked to do in the CSS file and did not mess with anythign else.
 
 -- 03-css: I complete all the excerise for this week. I used the viedos to help me with 2,5 and 6.
+
+-- 04-flexbox: I completed all the excerises, I look at the links for help
+
+-- 05-grid: I completed all the excerises. I used the slides as help.
+
+-- 06-bootstrap:
