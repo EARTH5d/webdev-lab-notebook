@@ -22,9 +22,11 @@ Enter your reflections on this section here.
 
 -- 03-css: The wedpage have no error flags and only one alert flag for No page regions.
 
--- 04-flexbox: The wedpage have no error flags and only one alert flag for No page regions.
+-- 04-flexbox: The wedpage have no error flags and only one alert flag for the page regions.
 
--- 05-grid: The wedpage have no error flags and only one alert flag for No page regions.
+-- 05-grid: The wedpages have no error flags and only one alert flag for oen of the page regions.
+
+-- 06-bootstrap: The wedpages have no error flags and only one alert flag for each of pages regions. I used the slides to help me. I used the viedos to help me with for both the cards and modal. I also used the code sample for cards.
 
 ### CSS
 
@@ -39,4 +41,4 @@ Enter your reflections on this section here.
 
 -- 05-grid: I completed all the excerises. I used the slides as help.
 
--- 06-bootstrap:
+-- 06-bootstrap: THere was noy CSS
