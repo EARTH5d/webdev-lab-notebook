@@ -41,4 +41,4 @@ Enter your reflections on this section here.
 
 -- 05-grid: I completed all the excerises. I used the slides as help.
 
--- 06-bootstrap: THere was noy CSS
+-- 06-bootstrap: There was not any CSS that needed to be done.

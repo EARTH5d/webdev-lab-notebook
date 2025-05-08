@@ -3,6 +3,11 @@ const formatItems = (input) => {
 
   // for reference, see the MDN Number page:
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
+  let output = "";
+  for (let curr of input) {
+    output += curr.toFixed(3).toString() + ", ";
+  }
+  input = output;
 
   return input;
 };
