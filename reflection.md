@@ -13,6 +13,11 @@ Enter your reflections on this section here.
 
 -- 05-grid: I completed all the excerises.
 
+-- 06-bootstrap: I completed all the excerises. Using the veidos to help me with cards and modal.
+
+-- 07-javascript:
+---- week 6:
+
 ### Accessibility
 
 Enter your reflections on this section here.
@@ -28,6 +33,9 @@ Enter your reflections on this section here.
 
 -- 06-bootstrap: The wedpages have no error flags and only one alert flag for each of pages regions. I used the slides to help me. I used the viedos to help me with for both the cards and modal. I also used the code sample for cards.
 
+-- 07-javascript:
+---- week 6:
+
 ### CSS
 
 Enter your reflections on this section here.
@@ -41,4 +49,7 @@ Enter your reflections on this section here.
 
 -- 05-grid: I completed all the excerises. I used the slides as help.
 
--- 06-bootstrap: There was not any CSS that needed to be done.
+-- 06-bootstrap: There was no CSS that needed to be done.
+
+-- 07-javascript:
+---- week 6:

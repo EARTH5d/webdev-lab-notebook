@@ -7,9 +7,9 @@ const formatItems = (input) => {
   for (let curr of input) {
     output += curr.toFixed(3).toString() + ", ";
   }
-  input = output;
+  //input = output;
 
-  return input;
+  return output;
 };
 
 console.log(formatItems([1, 4, 17, 26, 41]));
