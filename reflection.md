@@ -16,7 +16,7 @@ Enter your reflections on this section here.
 -- 06-bootstrap: I completed all the excerises. Using the veidos to help me with cards and modal.
 
 -- 07-javascript:
----- week 6:
+---- week 6: I completed all the excerices. There was no HTML, expect for that which was reffers in 04-dom.js. I used the veido to help me with that one as well as get started with 03-objects.js.
 
 ### Accessibility
 
@@ -34,7 +34,7 @@ Enter your reflections on this section here.
 -- 06-bootstrap: The wedpages have no error flags and only one alert flag for each of pages regions. I used the slides to help me. I used the viedos to help me with for both the cards and modal. I also used the code sample for cards.
 
 -- 07-javascript:
----- week 6:
+---- week 6: There was no accessibility error floged by WAVE.
 
 ### CSS
 
@@ -52,4 +52,4 @@ Enter your reflections on this section here.
 -- 06-bootstrap: There was no CSS that needed to be done.
 
 -- 07-javascript:
----- week 6:
+---- week 6: There was no CSS files that were edited.
