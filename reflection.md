@@ -17,6 +17,7 @@ Enter your reflections on this section here.
 
 -- 07-javascript:
 ---- week 6: I completed all the excerices. There was no HTML, expect for that which was reffers in 04-dom.js. I used the veido to help me with that one as well as get started with 03-objects.js.
+---- Week 7: I fixed a prlabem with the HMTL in 07-feteh.html (It was loking for the gifs in an assets in the grandparent not the parent.), I als used the viedo for 7 for help with that one.
 
 ### Accessibility
 
@@ -34,7 +35,8 @@ Enter your reflections on this section here.
 -- 06-bootstrap: The wedpages have no error flags and only one alert flag for each of pages regions. I used the slides to help me. I used the viedos to help me with for both the cards and modal. I also used the code sample for cards.
 
 -- 07-javascript:
----- week 6: There was no accessibility error floged by WAVE.
+---- week 6: There was no accessibility error flagged by WAVE.
+---- week 7: TWave did not flagged any acceddinillity errors.
 
 ### CSS
 
@@ -53,3 +55,4 @@ Enter your reflections on this section here.
 
 -- 07-javascript:
 ---- week 6: There was no CSS files that were edited.
+---- week 7: There was no CSS files that were edited.
