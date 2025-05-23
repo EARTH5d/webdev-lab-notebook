@@ -13,11 +13,12 @@ Enter your reflections on this section here.
 
 -- 05-grid: I completed all the excerises.
 
--- 06-bootstrap: I completed all the excerises. Using the veidos to help me with cards and modal.
+-- 06-bootstrap: I completed all the excerises. Using the viedos to help me with cards and modal.
 
 -- 07-javascript:
 ---- week 6: I completed all the excerices. There was no HTML, expect for that which was reffers in 04-dom.js. I used the veido to help me with that one as well as get started with 03-objects.js.
 ---- Week 7: I fixed a prlabem with the HMTL in 07-feteh.html (It was loking for the gifs in an assets in the grandparent not the parent.), I als used the viedo for 7 for help with that one.
+---- week 8: THere were no HTML filed edited. Did used the viedo to help me with the one excerise thought.
 
 ### Accessibility
 
@@ -36,7 +37,8 @@ Enter your reflections on this section here.
 
 -- 07-javascript:
 ---- week 6: There was no accessibility error flagged by WAVE.
----- week 7: TWave did not flagged any acceddinillity errors.
+---- week 7: Wave did not flagged any accessinillity errors.
+---- week 8: No need to run accessibility tests.
 
 ### CSS
 
@@ -56,3 +58,4 @@ Enter your reflections on this section here.
 -- 07-javascript:
 ---- week 6: There was no CSS files that were edited.
 ---- week 7: There was no CSS files that were edited.
+---- week 8: THere were no CSS filed edited.
