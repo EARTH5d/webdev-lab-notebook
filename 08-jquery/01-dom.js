@@ -56,7 +56,7 @@ $(document).ready(() => {
     console.log("click event");
   });
 
-  $("#userInput2").on("keydown", function () {
+  $("#userInput2").on("keyup", function () {
     $("#output2").text($("#userInput2").val());
     console.log("typing event", $("#userInput2").val());
   });

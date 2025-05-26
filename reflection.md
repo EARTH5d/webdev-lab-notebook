@@ -17,8 +17,10 @@ Enter your reflections on this section here.
 
 -- 07-javascript:
 ---- week 6: I completed all the excerices. There was no HTML, expect for that which was reffers in 04-dom.js. I used the veido to help me with that one as well as get started with 03-objects.js.
----- Week 7: I fixed a prlabem with the HMTL in 07-feteh.html (It was loking for the gifs in an assets in the grandparent not the parent.), I als used the viedo for 7 for help with that one.
+---- Week 7: I fixed a problem with the HMTL in 07-feteh.html (It was loking for the gifs in an assets in the grandparent not the parent.), I als used the viedo for 7 for help with that one.
 ---- week 8: THere were no HTML filed edited. Did used the viedo to help me with the one excerise thought.
+
+-- 08-jquery: I fixed the path to the CSS slyte sheets in 01-dom.html. I also used the videos to help me with do the second exercise.
 
 ### Accessibility
 
@@ -40,6 +42,8 @@ Enter your reflections on this section here.
 ---- week 7: Wave did not flagged any accessinillity errors.
 ---- week 8: No need to run accessibility tests.
 
+-- 08-jquery: There is no error flagged from WAVE.
+
 ### CSS
 
 Enter your reflections on this section here.
@@ -58,4 +62,6 @@ Enter your reflections on this section here.
 -- 07-javascript:
 ---- week 6: There was no CSS files that were edited.
 ---- week 7: There was no CSS files that were edited.
----- week 8: THere were no CSS filed edited.
+---- week 8: There were no CSS files edited.
+
+-- 08-jquery: There were no CSS files to edit.
